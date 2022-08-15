@@ -1,0 +1,15 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "json-server",
+      "password": "typicode"
+    },
+    {
+      "id": 2,
+      "username": "abc",
+      "password": "abc"  
+    }
+  ]
+}
+ 
